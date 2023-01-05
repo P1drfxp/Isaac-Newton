@@ -1,2 +1,1 @@
-# Isaac-Newton
-projeto aula 26
+# NC27
